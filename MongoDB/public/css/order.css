@@ -1,0 +1,10 @@
+.orders-content-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.orders-content-list li {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
